@@ -1,0 +1,29 @@
+{
+    "countries":[
+        {
+       "name":"indonesia",
+       "capital":"jakarta"
+        },
+        {
+            "name":"philippines",
+            "capital":"manila"
+        },
+       
+        {
+                "name":"brocoli",
+                "country":"japan"
+        },
+        {
+                "name":"wortel",
+                "country":"United State"
+        }
+        
+    ]
+    
+    
+}
+
+
+
+
+   

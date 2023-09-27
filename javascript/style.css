@@ -1,0 +1,29 @@
+
+
+body{
+    background-color: darkgray;
+    background-repeat: no-repeat;
+}
+
+
+#h1MY{
+    font-size: 8vh;
+     margin-left: 0px;
+     font-family: "consolas",sans-serif;
+     -webkit-text-fill-color: rgb(36, 35, 35);
+     text-shadow: 0px 5px 0px black;
+     
+}
+
+#Btn{
+    border: 2px solid;
+    border-radius: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 8vh;
+    background: linear-gradient(darkgray,black);
+    -webkit-text-fill-color: greenyellow;
+    text-shadow: 0px 7px 0px black;
+
+}
+
+

@@ -1,0 +1,16 @@
+#game{
+    margin: auto;
+    border: 1px solid;
+    width: 500px;
+    height: 500px;
+}
+
+
+#box{
+  border: 1px solid;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
